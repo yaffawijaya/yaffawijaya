@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **yaffazka@gmail.com**
 
-- ⚡ Fun fact **I love cats**
+- ⚡ Fun fact **I love cats but i'm allergic to cat fur (very sad)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
