@@ -54,21 +54,24 @@
   <a href="https://devdocs.io/c/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/c/c-original.svg" alt="C" width="40" height="40"/> 
   </a> 
+  <a href="https://elixir-lang.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/elixir/elixir-original-wordmark.svg" alt="elixir" width="40" height="40"/> 
+  </a> 
+  <a href="https://spark.apache.org/docs/latest/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/apachespark/apachespark-original-wordmark.svg" alt="Apache Spark" width="40" height="40"/> 
+  </a> 
   <a href="https://airflow.apache.org/docs/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/apacheairflow/apacheairflow-original.svg" alt="Apache Airflow" width="40" height="40"/> 
   </a> 
   <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> 
   </a> 
-  <a href="https://hive.apache.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" alt="hive" width="40" height="40"/> 
+  <a href="https://min.io/docs/minio/linux/index.html" target="_blank" rel="noreferrer"> 
+    <img src="https://artifacthub.io/image/aec2a822-2a3f-41a6-8a71-57c5d75d011e@3x" alt="minio" width="40" height="40"/> 
   </a> 
   <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/apachekafka/apachekafka-original.svg" alt="kafka" width="40" height="40"/>
   </a>
-  <a href="https://elixir-lang.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/elixir/elixir-original-wordmark.svg" alt="elixir" width="40" height="40"/> 
-  </a> 
 </p>
 
 <h4>Project Based Experience</h4>
@@ -107,6 +110,32 @@
   </a> 
 </p>
 
+<h4 align="left">Supporting Tools & Apps</h4>
+<p align="left"> 
+  <a href="terminal" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/microsoft/terminal/refs/heads/main/res/terminal/Terminal.svg" alt="terminal" width="40" height="40"/> 
+  </a> 
+  <a href="https://notion.so" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/notion/notion-original.svg" alt="notion" width="40" height="40"/> 
+  </a> 
+  <a href="https://web.whatsapp.com" target="_blank" rel="noreferrer"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="whatsapp" width="40" height="40"/> 
+  </a> 
+  <a href="https://teams.microsoft.com" target="_blank" rel="noreferrer"> 
+    <img src="https://spinify.com/wp-content/uploads/2022/05/Microsoft_Office_Teams__2018%E2%80%93present_.svg.webp" alt="teams" width="40" height="40"/> 
+  </a> 
+  <a href="https://music.youtube.com" target="_blank" rel="noreferrer"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Youtube_Music_icon.svg" alt="youtube music" width="40" height="40"/> 
+  </a> 
+</p>
+
+
+<h4 align="left">Learning Method</h4>
+<p align="left"> 
+  <a href="brain" target="_blank" rel="noreferrer"> 
+    <img src="https://www.svgrepo.com/show/83465/brain.svg" alt="brain" width="40" height="40"/> 
+  </a> 
+</p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yaffawijaya&show_icons=true&theme=swift&locale=en&layout=compact" alt="yaffawijaya" /></p>
 
