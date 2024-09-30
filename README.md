@@ -137,13 +137,22 @@
   </a> 
 </p>
 
-<a href="https://github.com/yaffawijaya/Thing-That-Disturb-My-Sleep">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yaffawijaya&repo=Thing-That-Disturb-My-Sleep&theme=swift" />
-</a>
+<div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap;">
+  <!-- Repo Card -->
+  <a href="https://github.com/yaffawijaya/Thing-That-Disturb-My-Sleep">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yaffawijaya&repo=Thing-That-Disturb-My-Sleep&theme=swift" />
+  </a>
 
+  <!-- Top Languages -->
+  <div style="margin: 10px;">
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yaffawijaya&show_icons=true&theme=swift&locale=en&layout=compact" alt="yaffawijaya" />
+  </div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yaffawijaya&show_icons=true&theme=swift&locale=en&layout=compact" alt="yaffawijaya" /></p>
+  <!-- Stats -->
+  <div style="margin: 10px;">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=yaffawijaya&show_icons=true&theme=swift&locale=en" alt="yaffawijaya" />
+  </div>
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yaffawijaya&show_icons=true&theme=swift&locale=en" alt="yaffawijaya" /></p>
 
 [![Yaffa's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=yaffawijaya&theme=swift)](https://github.com/anuraghazra/github-readme-stats)
